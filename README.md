@@ -1,3 +1,1 @@
 # SeedSigner Translations
-
-test
